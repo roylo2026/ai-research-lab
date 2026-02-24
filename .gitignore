@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
+*.env
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Cursor / VS Code
+.vscode/
+.cursor/
+
+# Jupyter
+.ipynb_checkpoints/
